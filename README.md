@@ -1,8 +1,9 @@
 # static-web-page
-	仿写的一个静态页面。原网站地址为:http://www.pxwlkj.cn/
+仿写的一个静态页面。原网站地址为:
+[网址链接](http://www.pxwlkj.cn/)
 
 # 项目页面预览
-	https://yuliangbin.github.io/static-web-page/index1.html
+[请点击这里查看页面](https://yuliangbin.github.io/static-web-page/index1.html)
 
 # 目录结构
 	|-css
